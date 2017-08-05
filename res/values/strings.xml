@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ForButton!</string>
+    <string name="app_name">ForButton</string>
+    <string name="db_create_error">db reate error</string>
+</resources>
